@@ -4687,3 +4687,9 @@ input, select, textarea {
 		}
 
 	}
+
+/* Miscellaneous */
+
+.px80 {
+	height: 80px;
+}
